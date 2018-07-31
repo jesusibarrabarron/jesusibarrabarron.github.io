@@ -1,0 +1,22 @@
+h1{
+	font-size:3em;
+	text-align:center;
+	border-style:dashed;
+	border-radius: 10px;
+	border-color:rgb(2,61,28);
+	background-color:#a2abfa;
+	margin-left:400px;
+	margin-right:400px;
+	text-shadow:2px 2px 5px silver;
+	text-shadow:3px 3px 5px silver;
+	box-shadow:3px 3px 5px;
+	box-shadow:4px 4px 5px;
+}
+#resume{
+	text-decoration:underline;
+}
+iframe{
+	width:1000px;
+	height:1000px;
+	margin-left:125px;
+} 

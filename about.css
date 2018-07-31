@@ -1,0 +1,61 @@
+
+ol,li{
+	background-color:#a2abfa;
+	text-align:center;
+	border-style:double;
+}
+h1{
+	font-size:3em;
+	text-align:center;
+	border-style:solid;
+	border-color:rgb(2,61,28);
+	border-image:url(Images/border.png)30 Round;
+	border-radius-top-left:20px;
+	background-color:#a2abfa;
+	margin-left:400px;
+	margin-right:400px;
+	text-shadow:2px 2px 5px silver;
+	text-shadow:3px 3px 5px silver;
+	box-shadow:3px 3px 5px;
+	box-shadow:4px 4px 5px;
+	letter-spacing:3px;
+}
+#Fun{
+	background-color:#a2abfa;
+	text-align:center;
+	font-size:15px;
+	border-style:inset;
+	border-color:rgb(2,61,28);
+	border-image:url(Images/border.png)30 Round;
+	margin-left:300px;
+	margin-right:300px;
+	padding:10px;
+}
+#about{
+	text-decoration:underline;
+}
+#picofme{
+	border-style:solid;
+	border-radius:3px;
+	border-image:url(Images/border.png)30 Round;
+	width:250px;
+	height:300px;
+	box-shadow:3px 3px 5px;
+	float:left;
+	margin-top:10px;
+	margin-left:10px;
+	margin-right:10px;
+}
+#content{
+	background-color:#a2abfa;
+	float:top-right;
+	font-size:20px;
+	border-style:inset;
+	border-radius:10px;
+	border-image:url(Images/border.png)30 Round;
+	border-color:rgb(2,61,28);
+	letter-spacing: 1.6px;
+	padding:40px;
+	line-height:35px;
+}
+/*rgb(96, 165, 237)*/

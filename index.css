@@ -1,0 +1,61 @@
+@keyframes appear{
+	0%{opacity:.0;}
+	100%{opacity:1;}
+}
+h1{
+	color:black;
+	background: linear-gradient(to right,rgba(215,225,248,.3), rgba(61,61,61,.3),rgba(2,61,28,.3));
+	text-align:center;
+	font-size:4em;
+	font-width:10px;
+	border-style:double;
+	border-color:black;
+	border-image:url(otherborder.png) 40 Round;
+	margin-left:300px;
+	margin-right:300px;
+	margin-bottom:300px;
+	padding:50px;
+	text-shadow:2px 2px 5px;
+	text-shadow:3px 3px 5px;
+	box-shadow:3px 3px 5px;
+	box-shadow:4px 4px 5px;
+	letter-spacing:1.6px;
+	text-decoration:bold;
+}
+a{
+	padding-left:55px;
+	text-decoration:none;
+	font-size:1.1em;
+	float:right;
+	color:black;
+}
+body{
+	background-image:url("Images/myphoto5.jpg");
+	background-attachment:fixed;
+	background-position:center center;
+	background-size:cover;
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Markazi Text', serif;
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Lato', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Oswald', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'PT Sans', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Roboto', sans-serif;	
+	animation-name:appear;
+	animation-duration:3s;
+}
+a:hover{
+	color:green;
+}
+#Home{
+	text-decoration:underline;
+}
+#SMASH{
+	float:left;
+	width:200px;
+	height:40px;
+	background-color: rgba(255,255,255,.2);
+}
